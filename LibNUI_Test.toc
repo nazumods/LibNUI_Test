@@ -1,0 +1,8 @@
+## Interface: 120000
+## Category: Lib
+## Title: LibNUI Test
+## Author: Nazuraki
+## LoadOnDemand: 1
+## Dependencies: LibNUI
+
+test.lua
