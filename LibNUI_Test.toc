@@ -8,4 +8,5 @@
 init.lua
 table.lua
 table-dynamic.lua
+tab.lua
 entry.lua
