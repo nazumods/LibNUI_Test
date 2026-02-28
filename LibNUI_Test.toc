@@ -5,4 +5,7 @@
 ## LoadOnDemand: 1
 ## Dependencies: LibNUI
 
-test.lua
+init.lua
+table.lua
+table-dynamic.lua
+entry.lua
